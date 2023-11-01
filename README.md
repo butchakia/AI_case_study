@@ -3,10 +3,10 @@
 ## Overview and Origin
 
 * Name of company?
-The company name is OpenAI.
+  The company name is OpenAI.
 
 * When was the company incorporated?
-The company was in December 2015.
+  The company was in December 2015.
 
 * Who are the founders of the company?
 
