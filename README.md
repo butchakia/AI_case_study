@@ -9,15 +9,18 @@ The company name is OpenAI.
 The company was in December 2015.
 
 * Who are the founders of the company?  
+OpenAI's founders include Sam Altman, Greg Brockman, Ilya SuIlya Sutskever, Wojciech Zaremba, and Elon Musk.
 
 * How did the idea for the company (or project) come about?
+OpenAI was created in part because of its founders' existential concerns about the potential for catastrophe resulting from carelessness and misuse of general-purpose AI.
 
 * How is the company funded? How much funding have they received?
+The company is currently funded in several different manners. OpenAI has private donors and investors, some of the likes have included people like Peter Thiel, Marc Andreeson, and Reid Hoffman. Companies can also access OpenAI's APIs which help generate funds. Microsoft had invested $10 billon in early 2023 for example. When the company began they around $1 billion dollars, much coming from powerful individuals like Elon Musk and Peter Thiel.
 
 ## Business Activities
 
 * What specific problem is the company or project trying to solve?
-
+OpenAI was created "because of its founders' existential concerns about the potential for catastrophe resulting from carelessness and misuse of general-purpose AI. The company has a long-term focus on fundamental advances in AI and its capabilities."
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
@@ -49,3 +52,10 @@ The company was in December 2015.
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+## Sources  
+https://timesofindia.indiatimes.com/gadgets-news/openai-the-company-behind-chatgpt-what-all-it-does-how-it-started-and-more/articleshow/97297027.cms
+https://openai.com/our-structure
+https://www.techtarget.com/searchenterpriseai/definition/OpenAI#:~:text=The%20company%20was%20founded%20by,misuse%20of%20general%2Dpurpose%20AI.
+https://www.youtube.com/watch?v=8lVpZg-tb2Y
+https://www.bloomberg.com/news/articles/2023-01-23/microsoft-makes-multibillion-dollar-investment-in-openai?embedded-checkout=true
