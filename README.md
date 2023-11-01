@@ -4,8 +4,10 @@
 
 * Name of company?
 The company name is OpenAI.
+
 * When was the company incorporated?
 The company was in December 2015.
+
 * Who are the founders of the company?
 
 * How did the idea for the company (or project) come about?
