@@ -2,7 +2,7 @@
 
 ## Overview and Origin
 
-* Name of company?
+* Name of company?/n
 The company name is OpenAI.
 * When was the company incorporated?
 The company was in December 2015.
