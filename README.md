@@ -3,6 +3,7 @@
 ## Overview and Origin
 
 * Name of company?  
+
 The company name is OpenAI.
 
 * When was the company incorporated?  
