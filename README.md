@@ -59,7 +59,7 @@ When it comes to image generation a couple alternatives to OpenAI are Midjourney
 
 * What has been the business impact of this company so far?
 
-  OpenAI is a leader in the field of intelligence. The company's success has led to many start-ups and even larger companies trying to imitate their success. Right now for example, Google's Bard is lacking in accuracy compared to ChatGpt. That being said sometimes ChatGPT gives answers that are not totally correct. The drive the OpenAI is creating will lead others to try their hand at AGI and likely lead to many improvements in the field. Another, perhaps more drastic affect, is how the large language model will affect schooling and white collar work. A lawyer named Steven Shwartz used the chat bot which provided an argument using fake cases. When asked to defend his choice he claimed he thought it was a serach engine, lawyers right?
+OpenAI is a leader in the field of intelligence. The company's success has led to many start-ups and even larger companies trying to imitate their success. Right now for example, Google's Bard is lacking in accuracy compared to ChatGpt. That being said sometimes ChatGPT gives answers that are not totally correct. The drive the OpenAI is creating will lead others to try their hand at AGI and likely lead to many improvements in the field. Another, perhaps more drastic affect, is how the large language model will affect schooling and white collar work. A lawyer named Steven Shwartz used the chat bot which provided an argument using fake cases. When asked to defend his choice he claimed he thought it was a serach engine, lawyers right?
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 
@@ -72,6 +72,8 @@ OpenAI is leading the field in large language models and image generation. They 
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+
+I wouldn't quite suggest a particular product or service but what I would suggest would be to go open source with your code. The company's name is OpenAI and by opening up the source code you could allow others to greatly expand on its capability. By doing so they would democratize the space even more and allow everyone to see how ChatGPT in particular ticks. One of the founders, Elon Musk, has been critical of the company not being more open about its code, even calling it a "closed source, maximum profit company."
 
 * Why do you think that offering this product or service would benefit the company?
 
@@ -95,3 +97,4 @@ https://techdayhq.com/blog/2023/08/15/the-dall-e-ai#:~:text=Enter%20DALL%2DE%2C%
 https://www.toptal.com/insights/innovation/chatbot-technology-past-present-future
 https://www.pcworld.com/article/2086819/chatgpt-alternatives.html
 https://www.forbes.com/sites/mollybohannon/2023/06/08/lawyer-used-chatgpt-in-court-and-cited-fake-cases-a-judge-is-considering-sanctions/?sh=26de4d4e7c7f
+https://www.wepc.com/tips/is-chat-gpt-open-source/
