@@ -63,7 +63,11 @@ When it comes to image generation a couple alternatives to OpenAI are Midjourney
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 
+According to OpenAI the metrics the company uses to measure its success is impact on AI safety, AI research, technical leadership, deployment of benefical AI, public perception and collaboration, and ethical/safety standards. Broadley speaking as of now OpenAi is meeting these standards. They have kept AI safe, led in research, led with their technologies, provided AI that has been useful, had a generally positive public preception and upheld their ethical/safety standards. Like the change of technology one event could also change their public perception. If it is found out someone or some government is using their prodcuts for nefarious ends they might not be as well recieved.
+
 * How is your company performing relative to competitors in the same field?
+
+OpenAI is leading the field in large language models and image generation. They boast many users and have the most advanced models currently available. They are ahead of everyone else today but that doesn't mean their dominance will persist. Technology changes rapidly and one big advancement by any firm in the field could replace them.
 
 ## Recommendations
 
