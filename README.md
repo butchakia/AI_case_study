@@ -45,9 +45,15 @@ OpenAI technology also includes reinforcement learning and machine learning, ena
 
 * What field is the company in?
 
+  The company is in the field of artificial intelligence with the goal of eventually creating a form of artifical general intelligence. Users can either interact with its chat bot, ChatGPT or image generator, DALL-E.
+
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
 
+Chatbots have expanded into many facets in our lives. In recent memory many companies have used online service bots as the front line of customer service. These have improved over the years with varying degrees of success. In our homes we have virtual assistants such as Alexa who use language models just like ChatGPT. They are getting better at understanding questions and quering appropriate responses. Image generation on the other hand has been trickier and didn't have much of a presence until recently. DALL-E first came onto the scene in early 2021 with its 3rd itereation currently available. The technology has improved drastically. Some images can appear realistic but no image generator is quite perfect. People and placing letters/numbers in images can be tough. Even now images that are suppose to be realistic will have tells in them that can be identified. Although it is only a matter of time before we won't be able to distinguish between real and generated images.
+
 * What are the other major companies in this field?
+
+When it comes to image generation a couple alternatives to OpenAI are Midjourney and Stable Diffusion. Midjourney requires a subscription but is liked for its ability to create detailed and high quality images. Stable Diffusion is free to use and was developed by multiple groups and organizations like Ludwig Maximilian University of Munich, StabilityAI, and RunwayML. There are plenty of competitors out there when it comes to chat bots. Many smaller companies have models but two major competitors are Google and Microsoft. Google's Bard is exceptionally fast but lower in accuracy. Microsft's Bing can anwswer questions as a chat bot and one of its perks that OpenAI doesn't have is that it can actively search the internet. There is a tradeoff for speed but you won't have to worry about asking questions on more recent matters. ChatGPT has a cut off date for which it is trained.
 
 ## Results
 
@@ -80,3 +86,5 @@ https://www.investopedia.com/what-is-chatgpt-7094342#:~:text=ChatGPT%20stands%20
 https://hackernoon.com/3-different-platforms-and-how-they-use-openai-technology
 https://www.datacamp.com/blog/what-is-dall-e
 https://techdayhq.com/blog/2023/08/15/the-dall-e-ai#:~:text=Enter%20DALL%2DE%2C%20an%20AI,re%20all%20over%20the%20place.
+https://www.toptal.com/insights/innovation/chatbot-technology-past-present-future
+https://www.pcworld.com/article/2086819/chatgpt-alternatives.html
