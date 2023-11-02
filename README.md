@@ -45,7 +45,7 @@ OpenAI technology also includes reinforcement learning and machine learning, ena
 
 * What field is the company in?
 
-  The company is in the field of artificial intelligence with the goal of eventually creating a form of artifical general intelligence. Users can either interact with its chat bot, ChatGPT or image generator, DALL-E.
+The company is in the field of artificial intelligence with the goal of eventually creating a form of artifical general intelligence. Users can either interact with its chat bot, ChatGPT or image generator, DALL-E.
 
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
 
