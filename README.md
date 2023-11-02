@@ -59,6 +59,8 @@ When it comes to image generation a couple alternatives to OpenAI are Midjourney
 
 * What has been the business impact of this company so far?
 
+  OpenAI is a leader in the field of intelligence. The company's success has led to many start-ups and even larger companies trying to imitate their success. Right now for example, Google's Bard is lacking in accuracy compared to ChatGpt. That being said sometimes ChatGPT gives answers that are not totally correct. The drive the OpenAI is creating will lead others to try their hand at AGI and likely lead to many improvements in the field. Another, perhaps more drastic affect, is how the large language model will affect schooling and white collar work. A lawyer named Steven Shwartz used the chat bot which provided an argument using fake cases. When asked to defend his choice he claimed he thought it was a serach engine, lawyers right?
+
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 
 * How is your company performing relative to competitors in the same field?
@@ -88,3 +90,4 @@ https://www.datacamp.com/blog/what-is-dall-e
 https://techdayhq.com/blog/2023/08/15/the-dall-e-ai#:~:text=Enter%20DALL%2DE%2C%20an%20AI,re%20all%20over%20the%20place.
 https://www.toptal.com/insights/innovation/chatbot-technology-past-present-future
 https://www.pcworld.com/article/2086819/chatgpt-alternatives.html
+https://www.forbes.com/sites/mollybohannon/2023/06/08/lawyer-used-chatgpt-in-court-and-cited-fake-cases-a-judge-is-considering-sanctions/?sh=26de4d4e7c7f
