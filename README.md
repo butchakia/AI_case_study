@@ -77,9 +77,15 @@ I wouldn't quite suggest a particular product or service but what I would sugges
 
 * Why do you think that offering this product or service would benefit the company?
 
+Speaking from a financial standpoint this offering would unlikely directly benefit the company. They would have less propriotary software. They would have to get money through donations and grants by leading the field while still offering up their knowledge which would be difficult. It would certainly gain broader public support and admiration which is one of their stated goals. They could also possibly draw even better talent, being a beacon of what a good AI company would look like and act like.
+
 * What technologies would this additional product or service utilize?
 
+Any technology could be used, with its product open sourced anyone could apply anything they like to it. Many companies and small businesses could also harnass its power to enhance their business. This could have positive ripple effects throughout the economy as a whole by helping basically everything run more efficiently. Hopefully this could improve supply chains and manufacturing processes reducing prices across the board for people.
+
 * Why are these technologies appropriate for your solution?
+
+Any technology would be appropriate if someone could make it work. The sky is really the limit for what else you could apply to OpenAI's products if they were open source.
 
 ## Sources  
 https://timesofindia.indiatimes.com/gadgets-news/openai-the-company-behind-chatgpt-what-all-it-does-how-it-started-and-more/articleshow/97297027.cms
