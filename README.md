@@ -8,11 +8,11 @@ The company name is OpenAI.
 
 * When was the company incorporated?  
 
-The company was in December 2015.
+The company was incorported in December 2015.
 
 * Who are the founders of the company?    
 
-OpenAI's founders include Sam Altman, Greg Brockman, Ilya SuIlya Sutskever, Wojciech Zaremba, and Elon Musk.
+OpenAI's founders are Greg Brockman, Ilya Sutskever, John Schulman, and Wojciech Zaremba.
 
 * How did the idea for the company (or project) come about?  
 
@@ -26,7 +26,7 @@ The company is currently funded in several different manners. OpenAI has private
 
 * What specific problem is the company or project trying to solve?  
 
-OpenAI was created "because of its founders' existential concerns about the potential for catastrophe resulting from carelessness and misuse of general-purpose AI. The company has a long-term focus on fundamental advances in AI and its capabilities." Founders such as Elon Musk are afraid of AI turning on humanity and causing us great harm, OpenAI's goal is produce AGI for the benefit of humanity and keep AI or AGI from being to concentrated in one place. The company does not state goals more specifically. The company offers an advanced chat bot(AI-powered Large Language Model) and more recently an image generator.
+OpenAI was created "because of its founders' existential concerns about the potential for catastrophe resulting from carelessness and misuse of general-purpose AI. The company has a long-term focus on fundamental advances in AI and its capabilities." Early supporters such as Elon Musk are afraid of AI turning on humanity and causing us great harm, OpenAI's goal is produce AGI for the benefit of humanity and keep AI or AGI from being to concentrated in one place. The company does not state goals more specifically. The company offers an advanced chatbot(AI-powered Large Language Model) and more recently an image generator.
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?  
 
@@ -34,7 +34,7 @@ Anyone and everyone is the intended customer of OpenAI. According to their chart
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)  
 
-The company's chatbot is head and shoulders above what else is out there. There have been chat bots for many years and other companies offer them but none have been as advanced as ChatGPT. The model can functional at a high level. Its had the ability to understand context, detail, and recognize when it has makes mistakes. It has a special ability answer questions in the style of someone famous or take the role of someone designated by the user. For example you can get responses in the style of Dr. Seuss or as a professional looking to hire a certain type of employee. It's imagine generator can create some realistic looking images but still has much room for improvement. That being said all you need is a description to get images created just for you.
+The company's chatbot is head and shoulders above what else is out there. There have been chatbots for many years and other companies offer them but none have been as advanced as ChatGPT. The model can functional at a high level. Its had the ability to understand context, detail, and recognize when it has made mistakes. It has a special ability answer questions in the style of someone famous or take the role of someone designated by the user. For example you can get responses in the style of Dr. Seuss or as a professional looking to hire a certain type of employee. It's image generator can create some realistic looking images but still has much room for improvement. That being said all you need is a description to get images created just for you.
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
@@ -45,7 +45,7 @@ OpenAI technology also includes reinforcement learning and machine learning, ena
 
 * What field is the company in?
 
-The company is in the field of artificial intelligence with the goal of eventually creating a form of artifical general intelligence. Users can either interact with its chat bot, ChatGPT or image generator, DALL-E.
+The company is in the field of artificial intelligence with the goal of eventually creating a form of artifical general intelligence. Users can either interact with its chatbot, ChatGPT or image generator, DALL-E.
 
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
 
@@ -53,13 +53,13 @@ Chatbots have expanded into many facets in our lives. In recent memory many comp
 
 * What are the other major companies in this field?
 
-When it comes to image generation a couple alternatives to OpenAI are Midjourney and Stable Diffusion. Midjourney requires a subscription but is liked for its ability to create detailed and high quality images. Stable Diffusion is free to use and was developed by multiple groups and organizations like Ludwig Maximilian University of Munich, StabilityAI, and RunwayML. There are plenty of competitors out there when it comes to chat bots. Many smaller companies have models but two major competitors are Google and Microsoft. Google's Bard is exceptionally fast but lower in accuracy. Microsft's Bing can anwswer questions as a chat bot and one of its perks that OpenAI doesn't have is that it can actively search the internet. There is a tradeoff for speed but you won't have to worry about asking questions on more recent matters. ChatGPT has a cut off date for which it is trained.
+When it comes to image generation a couple alternatives to OpenAI are Midjourney and Stable Diffusion. Midjourney requires a subscription but is liked for its ability to create detailed and high quality images. Stable Diffusion is free to use and was developed by multiple groups and organizations like Ludwig Maximilian University of Munich, StabilityAI, and RunwayML. There are plenty of competitors out there when it comes to chatbots. Many smaller companies have models but two major competitors are Google and Microsoft. Google's Bard is exceptionally fast but lower in accuracy. Microsft's Bing can anwswer questions as a chatbot and one of its perks that OpenAI doesn't have is that it can actively search the internet. There is a tradeoff for speed but you won't have to worry about asking questions on more recent matters. ChatGPT has a cut off date for which it is trained.
 
 ## Results
 
 * What has been the business impact of this company so far?
 
-OpenAI is a leader in the field of intelligence. The company's success has led to many start-ups and even larger companies trying to imitate their success. Right now for example, Google's Bard is lacking in accuracy compared to ChatGpt. That being said sometimes ChatGPT gives answers that are not totally correct. The drive the OpenAI is creating will lead others to try their hand at AGI and likely lead to many improvements in the field. Another, perhaps more drastic affect, is how the large language model will affect schooling and white collar work. A lawyer named Steven Shwartz used the chat bot which provided an argument using fake cases. When asked to defend his choice he claimed he thought it was a serach engine, lawyers right?
+OpenAI is a leader in the field of intelligence. The company's success has led to many start-ups and even larger companies trying to imitate their success. Right now for example, Google's Bard is lacking in accuracy compared to ChatGpt. That being said sometimes ChatGPT gives answers that are not totally correct. The drive the OpenAI is creating will lead others to try their hand at AGI and likely lead to many improvements in the field. Another, perhaps more drastic affect, is how the large language model will affect schooling and white collar work. A lawyer named Steven Shwartz used the chat bot which provided an argument using fake cases. When asked to defend his choice he claimed he thought ChatGPT was a serach engine, lawyers right?
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 
@@ -67,21 +67,21 @@ According to OpenAI the metrics the company uses to measure its success is impac
 
 * How is your company performing relative to competitors in the same field?
 
-OpenAI is leading the field in large language models and image generation. They boast many users and have the most advanced models currently available. They are ahead of everyone else today but that doesn't mean their dominance will persist. Technology changes rapidly and one big advancement by any firm in the field could replace them.
+OpenAI is leading the field in large language models and image generation. They boast many users and have the most advanced models currently available. They are ahead of everyone else today but that doesn't mean their dominance will persist. With all its strenghts it cannot search the internet for new information like Bing. Technology changes rapidly and one big advancement by any firm in the field could replace them.
 
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
-I wouldn't quite suggest a particular product or service but what I would suggest would be to go open source with your code. The company's name is OpenAI and by opening up the source code you could allow others to greatly expand on its capability. By doing so they would democratize the space even more and allow everyone to see how ChatGPT in particular ticks. One of the founders, Elon Musk, has been critical of the company not being more open about its code, even calling it a "closed source, maximum profit company."
+I wouldn't quite suggest a particular product or service but what I would suggest is going open source with your code. The company's name is OpenAI and by opening up the source code you could allow others to greatly expand on its capability. By doing so they would democratize the space even more and allow everyone to see how ChatGPT in particular ticks. One of the founders, Elon Musk, has been critical of the company not being more open about its code, even calling it a "closed source, maximum profit company."
 
 * Why do you think that offering this product or service would benefit the company?
 
-Speaking from a financial standpoint this offering would unlikely directly benefit the company. They would have less propriotary software. They would have to get money through donations and grants by leading the field while still offering up their knowledge which would be difficult. It would certainly gain broader public support and admiration which is one of their stated goals. They could also possibly draw even better talent, being a beacon of what a good AI company would look like and act like.
+Speaking from a financial standpoint this offering would unlikely directly benefit the company. They would have less propriotary software. They would have to get more money through donors and grants. By leading the field and offering up their knowledge they might open themselves up to more donations to offset direct revenue. They would certainly gain broader public support and admiration which is one of their stated goals. They could also possibly draw even better talent, being a beacon of what a good AI company looks like and acts like.
 
 * What technologies would this additional product or service utilize?
 
-Any technology could be used, with its product open sourced anyone could apply anything they like to it. Many companies and small businesses could also harnass its power to enhance their business. This could have positive ripple effects throughout the economy as a whole by helping basically everything run more efficiently. Hopefully this could improve supply chains and manufacturing processes reducing prices across the board for people.
+Any technology could be used, with its product open sourced anyone could apply anything they like to it. Many companies and small businesses could also harness its power to enhance their business. This could have positive ripple effects throughout the economy as a whole by helping basically everything run more efficiently. Hopefully this could improve supply chains and manufacturing processes reducing prices across the board for people.
 
 * Why are these technologies appropriate for your solution?
 
